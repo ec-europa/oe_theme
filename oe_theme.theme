@@ -12,6 +12,7 @@ use Drupal\Core\Cache\CacheableMetadata;
 use Drupal\Core\Render\Element;
 use Drupal\Core\Url;
 use Drupal\Component\Utility\Random;
+use Drupal\Component\Utility\SortArray;
 use Drupal\oe_theme\ValueObject\FileValueObject;
 use Drupal\oe_theme\ValueObject\DateValueObject;
 use Drupal\oe_theme\ValueObject\GalleryItemValueObject;
@@ -165,6 +166,7 @@ function oe_theme_preprocess_paragraph__oe_contextual_navigation(array &$variabl
  * Implements hook_preprocess_menu_local_tasks().
  */
 function oe_theme_preprocess_menu_local_tasks(array &$variables): void {
+  uasort($variables['primary'],[SortArray::class, 'sortByWeightProperty']);
   foreach ($variables['primary'] as $link) {
     /** @var Drupal\Core\Url $url */
     $url = $link['#link']['url'];
@@ -177,6 +179,7 @@ function oe_theme_preprocess_menu_local_tasks(array &$variables): void {
     }
   }
 
+  uasort($variables['primary'],[SortArray::class, 'sortByWeightProperty']);
   foreach ($variables['secondary'] as $link) {
     /** @var Drupal\Core\Url $url */
     $url = $link['#link']['url'];
