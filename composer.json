@@ -106,6 +106,9 @@
             },
             "openeuropa/oe_media": {
                 "latest-master": "https://github.com/openeuropa/oe_media/compare/1.10.1..master.diff"
+            },
+            "openeuropa/oe_multilingual": {
+                "latest-master": "https://github.com/openeuropa/oe_multilingual/compare/1.5.0..EWPP-607.diff"
             }
         }
     },
