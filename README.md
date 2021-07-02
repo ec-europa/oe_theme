@@ -109,9 +109,6 @@ Each component library can use one of the following ECL brandings:
   onward navigation to further thematic content and/or specific services. For example, the main European Commission
   website (https://ec.europa.eu) uses ECL core branding.
 
-ECL branding changes the way users interact with the sites by restricting access to certain components, for example:
-users can access to the main navigation menu only on sites using standardised ECL branding.
-
 To learn more about EC/EU families and ECL branding visit the [ECL website](https://ec.europa.eu/component-library).
 
 ### Upgrade to 3.0.0
@@ -152,6 +149,20 @@ infos:
   type: "array"
   label: "Infos (deprecated)"
   description: "A list of infos of the current page. Deprecated from ECL 2.30."
+```
+
+#### Site header
+
+ECL v3 supports the horizontal menu in both Core and Standardised branding. In order to accommodate this, we removed the
+visibility condition of the `Main navigation` block:
+
+```yaml
+visibility:
+  oe_theme_helper_current_branding:
+    id: oe_theme_helper_current_branding
+    branding: standardised
+    negate: false
+    context_mapping: {  }
 ```
 
 ### Upgrade to 2.17.0
