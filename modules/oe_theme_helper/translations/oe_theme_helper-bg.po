@@ -34,8 +34,8 @@ msgstr "Резервирайте мястото си, @time_left до края �
 msgid "Registration will open in @time_left. You can register from @start_date, until @end_date."
 msgstr "Регистрацията ще започне на @time_left. Можете да се регистрирате от @start_date до @end_date."
 
-msgid "Registration period ended on @date."
-msgstr "Срокът за регистрация приключи на @date."
+msgid "Registration period ended on @date"
+msgstr "Срокът за регистрация приключи на @date"
 
 msgid "Postal address"
 msgstr "Пощенски адрес"
@@ -229,9 +229,8 @@ msgstr "Няколко крайни срока"
 msgid "Permanent"
 msgstr "Постоянен"
 
-msgctxt "Call for proposals"
-msgid " in"
-msgstr "в"
+msgid "@date in"
+msgstr "@date в"
 
 msgid "Contact us"
 msgstr "За контакти"

@@ -34,8 +34,8 @@ msgstr "Boek uw plaats. U heeft nog @time_left, inschrijven kan nog tot @end_dat
 msgid "Registration will open in @time_left. You can register from @start_date, until @end_date."
 msgstr "Registreren kan over @time_left. Registreren kan van @start_date  tot @end_date."
 
-msgid "Registration period ended on @date."
-msgstr "De registratieperiode eindigde op @date."
+msgid "Registration period ended on @date"
+msgstr "De registratieperiode eindigde op @date"
 
 msgid "Postal address"
 msgstr "Postadres"
@@ -229,9 +229,8 @@ msgstr "Meerdere deadlines"
 msgid "Permanent"
 msgstr "Permanent"
 
-msgctxt "Call for proposals"
-msgid " in"
-msgstr " in"
+msgid "@date in"
+msgstr "@date in"
 
 msgid "Contact us"
 msgstr "Contact"

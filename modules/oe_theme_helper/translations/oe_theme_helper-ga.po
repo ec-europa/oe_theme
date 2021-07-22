@@ -34,8 +34,8 @@ msgstr "Cuir do shuíochán in áirithe, @time_left fágtha le clárú, cuirfear
 msgid "Registration will open in @time_left. You can register from @start_date, until @end_date."
 msgstr "Beidh an tréimhse chlárúcháin ar oscailt idir an @time_left. Beidh tú in ann clárú ón @start_date, go dtí an @end_date."
 
-msgid "Registration period ended on @date."
-msgstr "Tháinig deireadh leis an tréimhse chlárúcháin an @date."
+msgid "Registration period ended on @date"
+msgstr "Tháinig deireadh leis an tréimhse chlárúcháin an @date"
 
 msgid "Postal address"
 msgstr "Seoladh poist"
@@ -229,9 +229,8 @@ msgstr "Scoitheadh ilchéimneach"
 msgid "Permanent"
 msgstr "Buan"
 
-msgctxt "Call for proposals"
-msgid " in"
-msgstr " sa"
+msgid "@date in"
+msgstr "@date sa"
 
 msgid "Contact us"
 msgstr "Sonraí teagmhála"

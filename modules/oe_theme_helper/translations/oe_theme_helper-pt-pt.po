@@ -34,8 +34,8 @@ msgstr "Reserve o seu lugar, ainda dispõe de @time_left para se inscrever, insc
 msgid "Registration will open in @time_left. You can register from @start_date, until @end_date."
 msgstr "Início do período de inscrição dentro de @time_left. Pode inscrever-se a partir de @start_date a @end_date."
 
-msgid "Registration period ended on @date."
-msgstr "O período de inscrição terminou em @date."
+msgid "Registration period ended on @date"
+msgstr "O período de inscrição terminou em @date"
 
 msgid "Postal address"
 msgstr "Endereço postal"
@@ -229,9 +229,8 @@ msgstr "Prazos múltiplos"
 msgid "Permanent"
 msgstr "Permanente"
 
-msgctxt "Call for proposals"
-msgid " in"
-msgstr " no"
+msgid "@date in"
+msgstr "@date no"
 
 msgid "Contact us"
 msgstr "Contacte-nos"

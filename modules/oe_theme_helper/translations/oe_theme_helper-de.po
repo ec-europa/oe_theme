@@ -34,8 +34,8 @@ msgstr "Jetzt Ihren Platz sichern – es bleiben noch @time_left bis zum Ende de
 msgid "Registration will open in @time_left. You can register from @start_date, until @end_date."
 msgstr "Registrierung beginnt in @time_left. Sie können sich vom @start_date bis zum @end_date registrieren."
 
-msgid "Registration period ended on @date."
-msgstr "Der Registrierungszeitraum endete am @date."
+msgid "Registration period ended on @date"
+msgstr "Der Registrierungszeitraum endete am @date"
 
 msgid "Postal address"
 msgstr "Postanschrift"
@@ -229,9 +229,8 @@ msgstr "Mehrere Enddaten"
 msgid "Permanent"
 msgstr "Unbefristet"
 
-msgctxt "Call for proposals"
-msgid " in"
-msgstr " im"
+msgid "@date in"
+msgstr "@date im"
 
 msgid "Contact us"
 msgstr "Kontakt"

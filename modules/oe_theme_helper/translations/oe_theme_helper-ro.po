@@ -34,8 +34,8 @@ msgstr "Rezervați-vă un loc! Mai aveți la dispoziție @time_left  pentru a v�
 msgid "Registration will open in @time_left. You can register from @start_date, until @end_date."
 msgstr "Perioada de înregistrare începe în @time_left. Vă puteți înscrie de pe @start_date  până pe @end_date."
 
-msgid "Registration period ended on @date."
-msgstr "Perioada de înregistrare s-a încheiat la @date."
+msgid "Registration period ended on @date"
+msgstr "Perioada de înregistrare s-a încheiat la @date"
 
 msgid "Postal address"
 msgstr "Adresă poștală"
@@ -229,9 +229,8 @@ msgstr "Cu mai multe etape"
 msgid "Permanent"
 msgstr "Permanent(ă)"
 
-msgctxt "Call for proposals"
-msgid " in"
-msgstr " în"
+msgid "@date in"
+msgstr "@date în"
 
 msgid "Contact us"
 msgstr "Contactați-ne"

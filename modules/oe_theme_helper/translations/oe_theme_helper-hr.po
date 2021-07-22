@@ -34,8 +34,8 @@ msgstr "Rezervirajte svoje mjesto. Preostalo je još @time_left za registraciju.
 msgid "Registration will open in @time_left. You can register from @start_date, until @end_date."
 msgstr "Registracija počinje za @time_left. Možete se registrirati od @start_date do @end_date."
 
-msgid "Registration period ended on @date."
-msgstr "Razdoblje za registraciju završilo je @date."
+msgid "Registration period ended on @date"
+msgstr "Razdoblje za registraciju završilo je @date"
 
 msgid "Postal address"
 msgstr "Poštanska adresa"
@@ -229,9 +229,8 @@ msgstr "Više rokova"
 msgid "Permanent"
 msgstr "Stalno"
 
-msgctxt "Call for proposals"
-msgid " in"
-msgstr ","
+msgid "@date in"
+msgstr "@date,"
 
 msgid "Contact us"
 msgstr "Kontakt"

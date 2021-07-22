@@ -34,8 +34,8 @@ msgstr "Rezervējiet sev sēdvietu, reģistrācijai atlikušais laiks: @time_lef
 msgid "Registration will open in @time_left. You can register from @start_date, until @end_date."
 msgstr "Reģistrācija sāksies @time_left. Varat reģistrēties no @start_date līdz @end_date."
 
-msgid "Registration period ended on @date."
-msgstr "Reģistrācijas periods beidzās @date."
+msgid "Registration period ended on @date"
+msgstr "Reģistrācijas periods beidzās @date"
 
 msgid "Postal address"
 msgstr "Pasta adrese"
@@ -229,9 +229,8 @@ msgstr "Vairāki termiņi"
 msgid "Permanent"
 msgstr "Pastāvīgs"
 
-msgctxt "Call for proposals"
-msgid " in"
-msgstr " "
+msgid "@date in"
+msgstr "@date"
 
 msgid "Contact us"
 msgstr "Sazinieties ar mums"

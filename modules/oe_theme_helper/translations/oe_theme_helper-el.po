@@ -34,8 +34,8 @@ msgstr "Κάντε κράτηση για τη θέση σας, απομένου�
 msgid "Registration will open in @time_left. You can register from @start_date, until @end_date."
 msgstr "Η εγγραφή θα είναι δυνατή από την/τις @time_left. Μπορείτε να εγγραφείτε από την/τις @start_date, έως την/τις @end_date."
 
-msgid "Registration period ended on @date."
-msgstr "Η περίοδος εγγραφής έληξε στις @date."
+msgid "Registration period ended on @date"
+msgstr "Η περίοδος εγγραφής έληξε στις @date"
 
 msgid "Postal address"
 msgstr "Ταχυδρομική διεύθυνση"
@@ -229,9 +229,8 @@ msgstr "Πολλές ημερομηνίες λήξης"
 msgid "Permanent"
 msgstr "Μόνιμος"
 
-msgctxt "Call for proposals"
-msgid " in"
-msgstr " στην"
+msgid "@date in"
+msgstr "@date στην"
 
 msgid "Contact us"
 msgstr "Επικοινωνήστε μαζί μας"

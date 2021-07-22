@@ -34,8 +34,8 @@ msgstr "Zarezervujte si místo. Do konce registrace zbývá: @time_left. Konec r
 msgid "Registration will open in @time_left. You can register from @start_date, until @end_date."
 msgstr "Registrace bude zahájena za @time_left dní. Můžete se zaregistrovat od @start_date do @end_date."
 
-msgid "Registration period ended on @date."
-msgstr "Registrační období skončilo @date."
+msgid "Registration period ended on @date"
+msgstr "Registrační období skončilo @date"
 
 msgid "Postal address"
 msgstr "Poštovní adresa"
@@ -229,9 +229,8 @@ msgstr "Několik termínů"
 msgid "Permanent"
 msgstr "Stálý"
 
-msgctxt "Call for proposals"
-msgid " in"
-msgstr " v"
+msgid "@date in"
+msgstr "@date v"
 
 msgid "Contact us"
 msgstr "Kontakt"

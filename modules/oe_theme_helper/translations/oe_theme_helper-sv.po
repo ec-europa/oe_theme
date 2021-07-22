@@ -34,8 +34,8 @@ msgstr "Boka plats, @time_left dagar kvar, sista anmälningsdag @end_date."
 msgid "Registration will open in @time_left. You can register from @start_date, until @end_date."
 msgstr "Du kan anmäla dig under perioden @time_left. Du kan anmäla dig från @start_date till @end_date."
 
-msgid "Registration period ended on @date."
-msgstr "Sista anmälningsdag var den @date."
+msgid "Registration period ended on @date"
+msgstr "Sista anmälningsdag var den @date"
 
 msgid "Postal address"
 msgstr "Postadress"
@@ -229,9 +229,8 @@ msgstr "Flera tidsfrister"
 msgid "Permanent"
 msgstr "Ständigt pågående"
 
-msgctxt "Call for proposals"
-msgid " in"
-msgstr " i"
+msgid "@date in"
+msgstr "@date i"
 
 msgid "Contact us"
 msgstr "Kontakta oss"

@@ -34,8 +34,8 @@ msgstr "Broneeri koht, registeerimisaega on jäänud: @time_left, registreerimin
 msgid "Registration will open in @time_left. You can register from @start_date, until @end_date."
 msgstr "Registreerimise alguskuupäev: @time_left. Registreerimine kestab: @start_date kuni @end_date."
 
-msgid "Registration period ended on @date."
-msgstr "Registreerimine lõppes @date."
+msgid "Registration period ended on @date"
+msgstr "Registreerimine lõppes @date"
 
 msgid "Postal address"
 msgstr "Postiaadress"
@@ -229,9 +229,8 @@ msgstr "Mitme tähtajaga"
 msgid "Permanent"
 msgstr "Alaline"
 
-msgctxt "Call for proposals"
-msgid " in"
-msgstr " väljaandes"
+msgid "@date in"
+msgstr "@date väljaandes"
 
 msgid "Contact us"
 msgstr "Võtke meiega ühendust"

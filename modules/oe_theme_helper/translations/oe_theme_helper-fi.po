@@ -34,8 +34,8 @@ msgstr "Varaa paikkasi, ilmoittautumisaikaa on jäljellä @time_left, ilmoittaut
 msgid "Registration will open in @time_left. You can register from @start_date, until @end_date."
 msgstr "Ilmoittautuminen alkaa @time_left. Voit ilmoittautua @start_date – @end_date."
 
-msgid "Registration period ended on @date."
-msgstr "Ilmoittautumisaika päättyi @date."
+msgid "Registration period ended on @date"
+msgstr "Ilmoittautumisaika päättyi @date"
 
 msgid "Postal address"
 msgstr "Postiosoite"
@@ -229,9 +229,8 @@ msgstr "Monivaiheinen"
 msgid "Permanent"
 msgstr "Jatkuva"
 
-msgctxt "Call for proposals"
-msgid " in"
-msgstr " julkaisu"
+msgid "@date in"
+msgstr "@date julkaisu"
 
 msgid "Contact us"
 msgstr "Yhteydenotot"

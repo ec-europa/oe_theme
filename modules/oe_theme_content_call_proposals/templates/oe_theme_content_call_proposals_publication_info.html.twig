@@ -6,15 +6,19 @@
  * @see \Drupal\oe_theme_content_call_proposals\Plugin\ExtraField\Display\CallForProposalsPublicationInfoExtraField::viewElements()
  */
 #}
-{# Such formatting is required to support comma between date and link in translations. #}
-{{ date }}{% if link is not empty %}{% trans ' in' with {'context': 'Call for proposals'} %}
-  {% include '@ecl-twig/link' with {
-    link: {
-      type: 'standalone',
-      label: link.title,
-      path: link.url,
-      icon_position: 'after'
-    },
-    icon: get_link_icon(link.url)
-  } %}
+{% if link is empty %}
+  {{ date }}
+{% else %}
+  {% set _link %}
+    {% include '@ecl-twig/link' with {
+      link: {
+        type: 'standalone',
+        label: link.title,
+        path: link.url,
+        icon_position: 'after'
+      },
+      icon: get_link_icon(link.url)
+    } %}
+  {% endset %}
+  {{ '@date in'|t({'@date': date }) }} {{ _link  }}
 {% endif %}

@@ -34,8 +34,8 @@ msgstr "Foglalja le helyét, @time_left van még hátra a regisztrációs idősz
 msgid "Registration will open in @time_left. You can register from @start_date, until @end_date."
 msgstr "A regisztrációs időszak kezdetéig hátra van még @time_left. Regisztrálni ettől az időponttól: @start_date eddig az időpontig: @end_date lehet."
 
-msgid "Registration period ended on @date."
-msgstr "A regisztrációs időszak vége: @date."
+msgid "Registration period ended on @date"
+msgstr "A regisztrációs időszak vége: @date"
 
 msgid "Postal address"
 msgstr "Postai cím"
@@ -229,9 +229,8 @@ msgstr "Többkörös"
 msgid "Permanent"
 msgstr "Állandó"
 
-msgctxt "Call for proposals"
-msgid " in"
-msgstr ","
+msgid "@date in"
+msgstr "@date,"
 
 msgid "Contact us"
 msgstr "Kapcsolatfelvétel"
